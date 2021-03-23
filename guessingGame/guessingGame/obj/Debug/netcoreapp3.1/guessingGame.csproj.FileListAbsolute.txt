@@ -1,0 +1,15 @@
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.exe
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.deps.json
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.runtimeconfig.json
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.runtimeconfig.dev.json
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.dll
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\bin\Debug\netcoreapp3.1\guessingGame.pdb
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.csprojAssemblyReference.cache
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.Form1.resources
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.csproj.GenerateResource.cache
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.AssemblyInfoInputs.cache
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.AssemblyInfo.cs
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.csproj.CoreCompileInputs.cache
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.dll
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.pdb
+C:\Users\nov lud\Desktop\guessingGame\guessingGame\obj\Debug\netcoreapp3.1\guessingGame.genruntimeconfig.cache
